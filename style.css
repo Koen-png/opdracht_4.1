@@ -26,3 +26,6 @@ a{
     color: #8a2be2;
     text-decoration: none;
 }
+img{
+    width:50% * max-content;
+}
